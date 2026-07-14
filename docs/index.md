@@ -41,6 +41,12 @@ You mostly talk to one voice; the rest happens for you.
 
 ---
 
+## Built to a standard
+
+Most AI tools generate code and hope. Siklab is powered by **LASDK** — the engine that governs every build: planning it, checking it, and verifying it works before it ever reaches you. You get software that's been held to a standard, not a first draft you have to debug.
+
+---
+
 ## Is it for you?
 
 Whether you're a **solo founder** with no dev budget, an **agency** building for a client, or a **product manager** who needs a working proof of concept — see **[Who It's For](use-cases.md)**.

@@ -3,6 +3,7 @@ site_description: Turn a plain-language brief into a working web app, built and 
 site_author: Siklab
 # Set this to your published URL before deploying, e.g. https://<org>.github.io/siklab-docs/
 site_url: "https://bakunawa-siklabcore.github.io/siklab-docs/"
+copyright: "Powered by LASDK"
 
 theme:
   name: material
