@@ -36,6 +36,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Who It's For: use-cases.md
   - Getting Started: getting-started.md
 
 markdown_extensions:

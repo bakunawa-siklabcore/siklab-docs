@@ -41,6 +41,10 @@ You mostly talk to one voice; the rest happens for you.
 
 ---
 
+## Is it for you?
+
+Whether you're a **solo founder** with no dev budget, an **agency** building for a client, or a **product manager** who needs a working proof of concept — see **[Who It's For](use-cases.md)**.
+
 ## Get started
 
 See **[Getting Started](getting-started.md)** to install Siklab, connect your AI engine, and create your first app.
