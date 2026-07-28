@@ -34,7 +34,7 @@ You mostly talk to one voice; the rest happens for you.
 
 ## What makes it different
 
-- **No code, no setup headaches.** Install the app, set a password, connect your AI engine — that's the whole setup. No database to run, no server to manage.
+- **No code, no setup headaches.** Install the app, set a password — and if you already have an AI coding assistant on your machine, Siklab finds it and uses it. That's the whole setup. No database to run, no server to manage.
 - **You steer it.** Interactive previews let you shape the result *before* it's built for real, so you get what you actually meant.
 - **You own the result.** Delivered apps are yours to open and keep.
 - **It stays with you.** Add features, fix issues, or plan the next thing — in the same place, in plain language.
@@ -53,7 +53,7 @@ Whether you're a **solo founder** with no dev budget, an **agency** building for
 
 ## Get started
 
-See **[Getting Started](getting-started.md)** to install Siklab, connect your AI engine, and create your first app.
+See **[Getting Started](getting-started.md)** to install Siklab, point it at an AI engine, and create your first app.
 
 !!! note
     Detailed, step-by-step guides for each part of the product are on the way. This site will grow as they land.
