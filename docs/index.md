@@ -17,6 +17,11 @@ Describe it ──▶ Review the plan ──▶ Refine a live preview ──▶ 
 3. **Refine a live preview.** You get an **interactive preview** you can actually click through, and you shape it in conversation — _"count glasses, not milliliters"_ — until it's right.
 4. **Get your app.** Once you approve, Siklab builds the real thing and hands it back, along with a plain-language guide. Everything you've made is collected in one place.
 
+!!! note "Not everything has a screen"
+    Some things you might ask for — a command-line tool, a script, a small library — have no page to
+    click through. Siklab recognises those and skips the preview step, building and then **running**
+    them to check they work instead. Same conversation, different kind of proof.
+
 ---
 
 ## Your team behind the scenes

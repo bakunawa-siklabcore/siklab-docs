@@ -52,8 +52,28 @@ Siklab builds the exact tool — an inventory list, an expense log, a job tracke
 
 ---
 
-## What it's great at
+## What it builds
 
-Siklab shines at **self-contained web apps and tools** — the first working version, the prototype, the internal tool, the thing you'd otherwise never get built. You describe it, refine it live, and own the result.
+Siklab works out what *shape* your request needs and builds accordingly. You don't choose — you describe what you want, and it picks.
+
+**A single-page app.** The default, and what most requests turn into: a self-contained tool that opens in a browser and needs nothing else running. A tracker, a form, a calculator, a dashboard.
+
+> _"A tracker for my food truck's daily glasses sold, with a running total."_
+
+**A full app with a server.** When what you ask for needs sign-in, a shared database, saved accounts, or payments, a single page physically can't do it — so Siklab builds a real application with a server and a database behind it.
+
+> _"A booking system where clients sign in and see only their own appointments."_
+
+**A program with no screen at all.** A command-line tool, a script, a small library, something that runs on a schedule. These have no page to preview, so Siklab builds and tests them by *running* them rather than by clicking through a browser.
+
+> _"A command-line tool that renames a folder of files to a pattern I give it."_
+
+---
+
+## Where it fits best
+
+The first working version. The prototype that decides whether an idea is worth more. The internal tool too small to hire for and too particular to buy. You describe it, shape it in conversation, and own the result.
+
+It is at its strongest when the thing you want is *specific* — a tool for your workflow, not a general product. The more precisely you can say what it should do, the closer the first version lands.
 
 Ready to try it? See **[Getting Started](getting-started.md)**.

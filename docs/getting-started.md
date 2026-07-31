@@ -32,6 +32,12 @@ That's it — you're ready to build.
 
 Your finished apps live on the **Files** page, where you can open and keep them.
 
+!!! note "If you asked for something without a screen"
+    A command-line tool, a script or a small library has no preview to click and no page to open.
+    For those, Siklab skips step 4 and goes straight to building — then **runs** what it made to
+    check it works, and tells you what it produced and where. You'll get the code and a note on how
+    to run it, rather than a page on the Files list.
+
 ---
 
 ## Choosing what powers your agents
