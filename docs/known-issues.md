@@ -7,7 +7,7 @@ What is currently wrong, incomplete, or unproven. Published rather than left for
 discover — a limitation you hear from us costs you ten minutes; the same limitation found
 halfway through a project costs you an afternoon and your trust in everything else here.
 
-Accurate as of version 1.0.1444.
+Accurate as of version 1.0.1471.
 
 ---
 

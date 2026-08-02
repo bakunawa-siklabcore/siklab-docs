@@ -2,7 +2,7 @@ site_name: Siklab Core
 site_description: Turn a plain-language brief into a working web app, built and delivered by a fleet of AI agents.
 site_author: Siklab
 # Set this to your published URL before deploying, e.g. https://<org>.github.io/siklab-docs/
-site_url: "https://bakunawa-siklabcore.github.io/siklab-docs/"
+site_url: "https://docs.siklabcore.com/"
 copyright: "Powered by LASDK"
 
 theme:
