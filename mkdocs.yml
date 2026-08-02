@@ -47,6 +47,7 @@ nav:
   - Questions: faq.md
   - Troubleshooting: troubleshooting.md
   - Known Issues: known-issues.md
+  - Get Help: support.md
   - Uninstalling: uninstalling.md
 
 markdown_extensions:
