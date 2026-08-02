@@ -39,6 +39,9 @@ nav:
   - Home: index.md
   - Who It's For: use-cases.md
   - Getting Started: getting-started.md
+  - Requirements: requirements.md
+  - Your First App: first-app.md
+  - How the Forge Works: how-the-forge-works.md
 
 markdown_extensions:
   - admonition
