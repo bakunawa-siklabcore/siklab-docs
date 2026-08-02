@@ -42,6 +42,10 @@ nav:
   - Requirements: requirements.md
   - Your First App: first-app.md
   - How the Forge Works: how-the-forge-works.md
+  - Questions: faq.md
+  - Troubleshooting: troubleshooting.md
+  - Known Issues: known-issues.md
+  - Uninstalling: uninstalling.md
 
 markdown_extensions:
   - admonition
